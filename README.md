@@ -1,3 +1,22 @@
+# NEWROZA KAWA
+
+Civilizational Architecture Framework
+
+---
+
+Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast  
+Being Knowledge Economy Method Civilizational Synthesis  
+
+---
+
+Knowledge = f(Being)  
+Economy = f(Knowledge, Responsibility)  
+Civilization = f(Truth, Structure, Justice)  
+
+---
+
+Truth > Power
+
 # Veysi yê MALA SAF
 
 ## Ontological-Epistemological System Design  
