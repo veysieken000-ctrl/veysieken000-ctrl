@@ -77,6 +77,18 @@ Framework under active construction.
 ---
 
 ## Müdebbir
-
 Veysi yê MALA SAF 
 Independent System Architect
+
+---
+
+## System Position
+
+This framework proposes:
+
+• Ontology-centered knowledge  
+• Responsibility-based economy  
+• Truth-prioritized governance  
+• Civilizational reconstruction through structural justice  
+
+---
