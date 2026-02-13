@@ -101,3 +101,8 @@ Design economy aligned with Responsibility.
 
 Civilization is not inherited.  
 It is engineered.
+
+This framework is not debate-oriented.
+It is test-oriented.
+
+Critique must be structural, not rhetorical.
