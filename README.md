@@ -92,3 +92,12 @@ This framework proposes:
 • Civilizational reconstruction through structural justice  
 
 ---
+
+## Operational Directive
+
+Build structures aligned with Being.  
+Produce knowledge aligned with Truth.  
+Design economy aligned with Responsibility.  
+
+Civilization is not inherited.  
+It is engineered.
