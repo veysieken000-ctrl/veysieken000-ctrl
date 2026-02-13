@@ -18,6 +18,7 @@ Civilization = f(Truth, Structure, Justice)
 Truth > Power
 
 # Veysi yê MALA SAF
+Müdebbir
 
 ## Ontological-Epistemological System Design  
 ### Truth-Centered Civilizational Architecture
