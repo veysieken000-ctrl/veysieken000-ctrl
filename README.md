@@ -1,4 +1,29 @@
-# NEWROZA KAWA
+# NEWROZA KAWA CIVILIZATION
+
+Truth-Centered Civilizational Architecture  
+Falsifiable Ontological–Epistemological System
+
+---
+
+## Core Equation
+
+Civilization Stability  
+= f(Truth Alignment, Structural Coherence, Ethical Responsibility)
+
+Higher layers regulate lower layers  
+without violating physical law.
+
+System is explicitly open to scientific falsification.
+
+## Structural Stack
+
+Zanistarast → Civilizational Synthesis Engine  
+Rasterast → Coherence Filtering Method  
+Hebûn → Ontology (Layered Being Structure)  
+Zanabûn → Epistemology (Two-Knower Verification)  
+Mabûn → Structural-Economic Equilibrium
+
+---
 
 Civilizational Architecture Framework
 
@@ -16,9 +41,6 @@ Civilization = f(Truth, Structure, Justice)
 ---
 
 Truth > Power
-
-# Veysi yê MALA SAF
-Müdebbir
 
 ## Ontological-Epistemological System Design  
 ### Truth-Centered Civilizational Architecture
@@ -76,12 +98,6 @@ Framework under active construction.
 
 ---
 
-## Müdebbir
-Veysi yê MALA SAF 
-Independent System Architect
-
----
-
 ## System Position
 
 This framework proposes:
@@ -106,3 +122,8 @@ This framework is not debate-oriented.
 It is test-oriented.
 
 Critique must be structural, not rhetorical.
+---
+
+Veysi yê MALA SAF  
+Müdebbir  
+Ontological–Epistemological System Design
