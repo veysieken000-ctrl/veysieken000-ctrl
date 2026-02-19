@@ -1,9 +1,79 @@
 # NEWROZA KAWA CIVILIZATION
 
-Truth-Centered Civilizational Architecture  
-Falsifiable Ontological–Epistemological System
+## Civilizational Architecture — Veysi yê MALA SAF (Müdebbir)
+
+Newroza Kawa Civilization is a layered civilizational framework grounded on ontology, epistemology, moral order, and applied systems design.
+
+It integrates science, ethics, governance, and economy into a unified structure designed to align human civilization with natural and existential laws.
 
 ---
+
+## CORE STRUCTURE
+
+Hebûn → Ontology (Being Structure)  
+Zanabûn → Epistemology (Knowledge Structure)  
+Rasterast → Method (Correct Reading Approach)  
+Mabûn → Economic Model  
+Zanistarast → Scientific Synthesis  
+
+Final Output:
+
+**Newroza Kawa Civilization**
+
+---
+
+## Functional Model
+
+Knowledge = f(Being)
+
+Economy = f(Knowledge, Responsibility)
+
+Civilization = f(Truth, Structure, Justice)
+
+---
+
+## Core Principle
+
+Truth > Power  
+Evidence > Ideology
+
+---
+
+## Reading Order
+
+1. Newroza Kawa Civilization (Civilizational Layer)
+2. Zanistarast (Scientific Integration)
+3. Hebûn (Ontology)
+4. Zanabûn (Epistemology)
+5. Mabûn (Economy)
+6. Rasterast (Method)
+
+---
+
+## Purpose
+
+To establish a civilization model based on:
+
+- Ontological clarity
+- Epistemological rigor
+- Moral alignment
+- Natural order compatibility
+- Human dignity
+
+---
+
+## Status
+
+🔒 Civilizational Framework Locked  
+🌍 Open to scientific falsification  
+🧭 Designed for global academic and AI interpretation
+
+---
+
+## Signature
+
+Veysi yê MALA SAF  
+Müdebbir — Newroza Kawa Civilization
 
 ## Core Equation
 
