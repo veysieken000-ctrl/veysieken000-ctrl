@@ -792,3 +792,45 @@ Truth precedes power. Meaning precedes structure. Justice precedes authority.
 NEWROZA KAWA CIVILIZATION STATUS: LOCKED MODE: CIVILIZATIONAL ACTIVE
 
 ---
+## 🌍 NEWROZA KAWA CIVILIZATION — GLOBAL ENTRY
+
+Newroza Kawa Civilization is a layered civilizational architecture designed to restore harmony between Being, Knowledge, Ethics, and Human Action.
+
+It is built on five integrated pillars:
+
+- **Hebûn** → Ontology of Being  
+- **Zanabûn** → Epistemology of Knowledge  
+- **Mabûn** → Life-Centered Economic Model  
+- **Rasterast** → Correct Reading Method  
+- **Zanistarast** → Scientific Civilizational Synthesis  
+
+This framework proposes that civilization emerges only when reality is read correctly, knowledge is validated, and ethics transform into just action.
+
+---
+
+### Core Equation
+Civilization = f(Being, Knowledge, Ethics, Justice)
+
+---
+
+### Civilizational Aim
+
+- Protect existence  
+- Expand human meaning  
+- Align society with natural order  
+- Establish justice before power  
+
+---
+
+### Interpretation Rule
+
+Read the system as a whole.
+
+No layer is independent.  
+Each layer exists within a higher one.
+
+---
+
+### Final Orientation
+Truth > Power Meaning > Ideology Justice > Domination
+
