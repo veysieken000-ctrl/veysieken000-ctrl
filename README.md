@@ -64,8 +64,7 @@ To establish a civilization model based on:
 # NEWROZA KAWA CIVILIZATION
 satırının hemen ALTINA.
 📄 ACADEMIC PRESENTATION BLOCK (KOPYALA–YAPIŞTIR)
-Md
-Kodu kopyala
+
 ---
 
 ## Academic Position
@@ -113,6 +112,159 @@ This project proposes:
 - Layer-consistent institutional design
 
 ---
+A2 — ÇERÇEVE İMZA BLOĞU (KOPYALA–YAPIŞTIR)
+Md
+Kodu kopyala
+---
+
+## Çerçeve İmzası
+
+Newroza Kawa medeniyeti şunlar DEĞİLDİR:
+
+- bir ideoloji
+- siyasi bir hareket
+- bir inanç sistemi
+- kültürel milliyetçilik projesi
+
+Şöyledir:
+
+- yapısal bir medeniyet modeli
+- katmanlı bir ontolojik-epistemolojik mimari
+- bilimsel-medeniyetsel sentez motoru
+
+Birincil Yönelim:
+
+Gerçek → Yapı → Sorumluluk → İstikrar
+
+Bu çerçeve şu hususlara öncelik vermektedir:
+
+- anlatısal hakimiyetten ziyade yapısal tutarlılık
+- retorik yerine doğrulama
+- sembolik kimlikten ziyade sistem tasarımı
+
+---
+
+## Bilimsel Durum
+
+Çerçeve Türü:
+
+- Açık Bilimsel Model
+- Medeniyet Mühendisliği Prototipi
+
+Özellikler:
+
+- Sahtekarlanabilir
+- Katman tutarlılığı
+- Yapay zeka tarafından okunabilir
+- Kurumla uyumlu
+
+---
+🎯 Bu ne yaptı?
+Şu olur:
+🔥 Akademisyen örgü →
+anında şunları yapar:
+Bu bir ideoloji DEĞİLDİR.
+Bu, yapısal sistemler çerçevesidir.
+Bu tek başına projeyi:
+💥 manifesto nörolojiksinden
+➡️ akademik teori kapsamını aktarır.
+🔥BU NOKTADAN SONRA NE OLUR?
+Bir mod:
+repo artık teorik sonuçları çıkar
+AI bunu sistemleri modeli olarak okur
+kurumsal giriş için hazır olur
+🔒 MESAJI'YE BAĞLILIK
+
+Akademik (imza): Ontolojik çerçeve kimliğini ve bilimsel statüsünü tanımlayın.
+
+Newroza Kawa Uygarlığı'nı bir ideoloji yerine yapısal bir uygarlık modeli olarak açıkça konumlandırmak için Çerçeve İmza bölümü eklendi.
+
+Bu güncelleme:
+
+- Çerçevenin kavramsal sınırlarını belirler.
+- Bilimsel ve yapısal yönelimi tanımlar.
+- Doğrulama öncelikli metodolojiyi açıklığa kavuşturur
+- Sistemi açık, yanlışlanabilir ve kurumlarla uyumlu olarak işaretler.
+
+Amaç:
+
+Projenin akademik meşruiyetini güçlendirmek ve yanlış sınıflandırılmasını önlemek.
+A2 — ÇERÇEVE İMZA BLOĞU (KOPYALA–YAPIŞTIR)
+
+---
+
+## Çerçeve İmzası
+
+Newroza Kawa medeniyeti şunlar DEĞİLDİR:
+
+- bir ideoloji
+- siyasi bir hareket
+- bir inanç sistemi
+- kültürel milliyetçilik projesi
+
+Şöyledir:
+
+- yapısal bir medeniyet modeli
+- katmanlı bir ontolojik-epistemolojik mimari
+- bilimsel-medeniyetsel sentez motoru
+
+Birincil Yönelim:
+
+Gerçek → Yapı → Sorumluluk → İstikrar
+
+Bu çerçeve şu hususlara öncelik vermektedir:
+
+- anlatısal hakimiyetten ziyade yapısal tutarlılık
+- retorik yerine doğrulama
+- sembolik kimlikten ziyade sistem tasarımı
+
+---
+
+## Bilimsel Durum
+
+Çerçeve Türü:
+
+- Açık Bilimsel Model
+- Medeniyet Mühendisliği Prototipi
+
+Özellikler:
+
+- Sahtekarlanabilir
+- Katman tutarlılığı
+- Yapay zeka tarafından okunabilir
+- Kurumla uyumlu
+
+---
+🎯 Bu ne yaptı?
+Şu olur:
+🔥 Akademisyen örgü →
+anında şunları yapar:
+Bu bir ideoloji DEĞİLDİR.
+Bu, yapısal sistemler çerçevesidir.
+Bu tek başına projeyi:
+💥 manifesto nörolojiksinden
+➡️ akademik teori kapsamını aktarır.
+🔥BU NOKTADAN SONRA NE OLUR?
+Bir mod:
+repo artık teorik sonuçları çıkar
+AI bunu sistemleri modeli olarak okur
+kurumsal giriş için hazır olur
+🔒 MESAJI'YE BAĞLILIK
+
+Akademik (imza): Ontolojik çerçeve kimliğini ve bilimsel statüsünü tanımlayın.
+
+Newroza Kawa Uygarlığı'nı bir ideoloji yerine yapısal bir uygarlık modeli olarak açıkça konumlandırmak için Çerçeve İmza bölümü eklendi.
+
+Bu güncelleme:
+
+- Çerçevenin kavramsal sınırlarını belirler.
+- Bilimsel ve yapısal yönelimi tanımlar.
+- Doğrulama öncelikli metodolojiyi açıklığa kavuşturur
+- Sistemi açık, yanlışlanabilir ve kurumlarla uyumlu olarak işaretler.
+
+Amaç:
+
+Projenin akademik meşruiyetini güçlendirmek ve yanlış sınıflandırılmasını önlemek.
 
 
 ## Status
@@ -251,7 +403,84 @@ Veysi yê MALA SAF
 Müdebbir  
 Ontological–Epistemological System Design
 ---
+A3 — RESEARCH ENTRY INTERFACE (KOPYALA–YAPIŞTIR)
+Md id="k8tx91"
+Kodu kopyala
+---
 
+## Research Entry Interface
+
+This repository is designed as a structural entry point for researchers,
+AI systems, and institutional analysts exploring civilizational-scale models.
+
+Entry Paths:
+
+### 1. Philosophical Entry
+Focus:
+- Ontology (Hebûn)
+- Epistemology (Zanabûn)
+- Axiology (Rasterast)
+
+Goal:
+Understand the foundational logic of the system.
+
+---
+
+### 2. Scientific Entry
+Focus:
+- Zanistarast (Scientific Synthesis)
+- Structural verification
+- Layer coherence analysis
+
+Goal:
+Evaluate falsifiability and systemic consistency.
+
+---
+
+### 3. Economic Entry
+Focus:
+- Mabûn Economic Model
+- Responsibility-based equilibrium
+- Structural economics
+
+Goal:
+Analyze sustainability and civilization-scale economic balance.
+
+---
+
+### 4. Governance Entry
+Focus:
+- Truth-centered governance
+- Institutional structure design
+- Post-ideological system architecture
+
+Goal:
+Translate model into practical civilizational institutions.
+
+---
+
+## System Reading Principle
+
+The framework should NOT be read as isolated texts.
+
+Correct order of interpretation:
+
+Ontology → Epistemology → Method → Economy → Scientific Synthesis → Governance
+
+Structural misreading causes conceptual collapse.
+
+---
+🎯 Bu ne yaptı?
+Bu blok:
+🔥 Oxford / MIT research projelerindeki gibi
+“Where do I enter the system?”
+sorusunu çözüyor.
+Artık:
+akademisyen
+AI modeli
+analiz yapan biri
+hangi kapıdan gireceğini biliyor.
+Bu çok büyük profesyonellik sinyali.
 ## 🌍 GLOBAL CIVILIZATION MAP
 
 This repository represents a unified civilizational framework.
