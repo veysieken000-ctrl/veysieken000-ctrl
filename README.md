@@ -113,8 +113,6 @@ This project proposes:
 
 ---
 A2 — ÇERÇEVE İMZA BLOĞU (KOPYALA–YAPIŞTIR)
-Md
-Kodu kopyala
 ---
 
 ## Çerçeve İmzası
@@ -189,9 +187,6 @@ Bu güncelleme:
 Amaç:
 
 Projenin akademik meşruiyetini güçlendirmek ve yanlış sınıflandırılmasını önlemek.
-A2 — ÇERÇEVE İMZA BLOĞU (KOPYALA–YAPIŞTIR)
-
----
 
 ## Çerçeve İmzası
 
@@ -444,7 +439,56 @@ Focus:
 - Structural economics
 
 Goal:
-Analyze sustainability and civilization-scale economic balance.
+Analyze sustainability and civilization-scale economic balance
+
+A4 — INSTITUTIONAL SIGNAL LAYER
+
+## Institutional Signal Layer
+
+This framework is structured to operate beyond individual authorship.
+
+It is designed as:
+
+- A research-grade civilizational model
+- A structurally testable philosophical system
+- A scalable knowledge architecture compatible with institutional analysis
+
+---
+
+### Intended Institutional Contexts
+
+Possible research environments include:
+
+- Universities and epistemology studies
+- Governance and policy research centers
+- Economic systems laboratories
+- Artificial intelligence interpretability research
+- Civilizational studies and meta-framework analysis
+
+---
+
+### Interpretation Rule
+
+The model should be evaluated structurally, not ideologically.
+
+Primary evaluation axes:
+
+- Ontological coherence
+- Epistemological validity
+- Structural scalability
+- Ethical alignment
+- System stability
+
+---
+
+### Status Signal
+
+Framework Position:
+
+- Independent civilizational architecture
+- Open to academic critique
+- Designed for cross-disciplinary analysis
+- Compatible with AI-based structural interpretation
 
 ---
 
