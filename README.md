@@ -61,6 +61,59 @@ To establish a civilization model based on:
 - Human dignity
 
 ---
+# NEWROZA KAWA CIVILIZATION
+satırının hemen ALTINA.
+📄 ACADEMIC PRESENTATION BLOCK (KOPYALA–YAPIŞTIR)
+Md
+Kodu kopyala
+---
+
+## Academic Position
+
+Newroza Kawa Civilization is presented as a falsifiable civilizational framework grounded on:
+
+- Ontology (Hebûn)
+- Epistemology (Zanabûn)
+- Methodological Coherence (Rasterast)
+- Structural Economics (Mabûn)
+- Scientific Integration (Zanistarast)
+
+This framework proposes a structurally aligned civilization model where:
+
+Civilizational Stability =
+f(Ontological Alignment, Epistemic Coherence, Ethical Responsibility)
+
+The system is explicitly open to scientific falsification and academic testing.
+
+---
+
+## Academic Classification
+
+Field Orientation:
+
+- Civilizational Theory
+- Ontological Systems Design
+- Structural Epistemology
+- Ethics & Governance Architecture
+- Post-Ideological Institutional Models
+
+---
+
+## Research Thesis
+
+Core claim:
+
+Civilizations collapse when epistemology disconnects from ontology.
+
+This project proposes:
+
+- Truth-centered governance
+- Reality-aligned knowledge structures
+- Responsibility-based economics
+- Layer-consistent institutional design
+
+---
+
 
 ## Status
 
