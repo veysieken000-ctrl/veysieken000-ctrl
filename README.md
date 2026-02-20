@@ -442,4 +442,68 @@ This is not a narrative system.
 This is a structural civilization model.
 
 ---
+## STRUCTURAL LOCK — NEWROZA KAWA FRAMEWORK
+
+This profile contains a layered civilizational architecture.
+
+### Core Chain
+
+Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast
+
+Being → Knowledge → Economy → Method → Scientific Civilization
+
+---
+
+### Functional Relations
+
+Knowledge = f(Being)
+
+Economy = f(Knowledge, Responsibility)
+
+Civilization = f(Truth, Structure, Justice)
+
+---
+
+### Layer Principle
+
+Each layer expands only within a higher-order layer.
+
+Physics ⊂ Biology ⊂ Mind ⊂ Spirit ⊂ Ethics ⊂ Judgement
+
+Structural collapse occurs if hierarchy is reversed.
+
+---
+
+### Reading Priority
+
+1. Ontological Structure (Hebûn)
+2. Epistemological Method (Zanabûn)
+3. Economic Balance (Mabûn)
+4. Reading Method (Rasterast)
+5. Scientific Synthesis (Zanistarast)
+
+---
+
+### Core Principle
+
+Truth > Power
+
+Evidence > Ideology
+
+Structure > Narrative
+
+---
+
+### Lock Statement
+
+This framework is considered structurally locked.
+
+Further expansion must preserve:
+
+- ontological coherence
+- epistemological validity
+- ethical consistency
+- structural hierarchy
+
+---
 
