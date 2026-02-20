@@ -197,3 +197,52 @@ Critique must be structural, not rhetorical.
 Veysi yê MALA SAF  
 Müdebbir  
 Ontological–Epistemological System Design
+---
+
+## 🌍 GLOBAL CIVILIZATION MAP
+
+This repository represents a unified civilizational framework.
+
+Navigation Map:
+
+### 1️⃣ Civilizational Layer
+- Newroza Kawa Civilization (Core Framework)
+
+### 2️⃣ Scientific Synthesis
+- Zanistarast (Scientific Integration Engine)
+
+### 3️⃣ Ontological Layer
+- Hebûn (Layered Being Structure)
+
+### 4️⃣ Epistemological Layer
+- Zanabûn (Two-Knower Verification Model)
+
+### 5️⃣ Method Layer
+- Rasterast (Coherence Filtering & Reading Method)
+
+### 6️⃣ Economic Layer
+- Mabûn (Structural-Economic Equilibrium)
+
+---
+
+### Functional Flow
+
+Being → Knowledge → Economy → Method → Scientific Synthesis → Civilization
+
+---
+
+### Core Principle
+
+Truth > Power  
+Evidence > Ideology
+
+---
+
+### System Orientation
+
+- Designed for global academic dialogue
+- Compatible with scientific falsifiability
+- Open framework for interdisciplinary expansion
+
+---
+
