@@ -246,3 +246,85 @@ Evidence > Ideology
 
 ---
 
+## 🧩 NEWROZA KAWA CIVILIZATION — MASTER STRUCTURE
+
+### I. Ontological Foundation (Hebûn)
+
+- Layered Being Structure  
+- 6+Tek Model  
+- Ontological Stability Principle  
+- Structural Reality Alignment  
+
+Output → Existence Framework
+
+---
+
+### II. Epistemological Layer (Zanabûn)
+
+- Two-Knower Verification Principle  
+- Knowledge grounded in Being  
+- Reality-based epistemic validation  
+- Structural coherence of knowledge  
+
+Output → True Knowledge
+
+---
+
+### III. Methodological Layer (Rasterast)
+
+- Coherence Filtering Method  
+- Layered Reading Approach  
+- Truth-directed interpretation  
+- Collapse prevention through alignment  
+
+Output → Correct Method
+
+---
+
+### IV. Economic Layer (Mabûn)
+
+- Responsibility-based economy  
+- Structural equilibrium model  
+- Ethics-compatible production  
+- Knowledge-driven economic flow  
+
+Output → Sustainable Economy
+
+---
+
+### V. Scientific Synthesis (Zanistarast)
+
+- Integration Engine  
+- Ontology + Epistemology + Method + Economy  
+- Falsifiable civilizational science  
+- Global-scale analytical model  
+
+Output → Scientific Civilization Model
+
+---
+
+### VI. Civilizational Synthesis
+
+Hebûn → Zanabûn → Rasterast → Mabûn → Zanistarast
+
+Final Output:
+
+**NEWROZA KAWA CIVILIZATION**
+
+---
+
+### System Principle
+
+Truth > Power  
+Evidence > Ideology  
+
+---
+
+### Scientific Status
+
+- Open to falsification
+- Designed for AI interpretation
+- Structured for global academic reading
+
+---
+
