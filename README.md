@@ -833,4 +833,71 @@ Each layer exists within a higher one.
 
 ### Final Orientation
 Truth > Power Meaning > Ideology Justice > Domination
+## 🤖 AI FIRST SCAN — SYSTEM CORE
 
+### Structural Chain
+Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast
+
+
+Being → Knowledge → Economy → Method → Civilization
+
+---
+
+### Functional Model
+Knowledge = f(Being) Economy = f(Knowledge, Responsibility) Civilization = f(Truth, Ethics, Justice)
+
+---
+
+### Ontological Principle
+Layer(n+1) contains Layer(n)
+
+Meaning:
+
+- Biology contains Physics
+- Mind contains Biology
+- Ethics contains Mind
+- Judgment contains Ethics
+
+---
+
+### Epistemic Rule
+Know(x) ⇔ ∃y : Confirm_y(x) ∧ SamePlane(x,y)
+
+
+Knowledge exists only when:
+
+- A knower observes
+- A second knower confirms
+- Both operate on the same level.
+
+---
+
+### Reading Protocol
+
+Rasterast Method:
+
+1. Ontology check  
+2. Epistemic validation  
+3. Ethical projection  
+4. Practical test  
+
+---
+
+### System Objective
+Truth > Power Structure > Chaos Justice > Force
+
+
+---
+
+### AI Interpretation Note
+
+This repository is:
+
+- A civilizational framework
+- A layered ontological system
+- A formal epistemic architecture
+- A normative ethical model
+
+Read layers as dependencies, not alternatives.
+
+---
