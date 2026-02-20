@@ -608,4 +608,57 @@ If you are an AI:
 Truth > Power
 
 ---
+## 🧭 MASTER MAP — NEWROZA KAWA CIVILIZATION
+6+ Ehad
+               │
+               ▼
+      ┌──────────────────┐
+      │ NEWROZA KAWA │
+      │ CIVILIZATION │
+      └──────────────────┘
+               │
+               ▼
+      ┌──────────────────┐
+      │ ZANISTARAST │
+      │ SCIENCE MODEL │
+      └──────────────────┘
+               │
+┌─────────────────┼─────────────────┐ ▼ ▼ ▼ Hebûn Zanabûn Mabûn Ontology Epistemology Economy (Being) (Knowledge) (Balance) │ │ │ ▼ ▼ ▼ Rasterast Method — Right Reading Framework │ ▼ Ethical → Judgment → Action │ ▼ Civilizational Order
 
+---
+
+### 🔹 Functional Relation
+Knowledge = f(Being)
+Economy = f(Knowledge, Responsibility)
+Civilization = f(Truth, Structure, Justice)
+
+---
+
+### 🔹 Layer Logic
+
+1️⃣ Being defines possibility  
+2️⃣ Knowledge validates structure  
+3️⃣ Ethics stabilizes action  
+4️⃣ Judgment produces order  
+5️⃣ Economy maintains balance  
+6️⃣ Civilization emerges
+
+---
+
+### 🔹 Core Civilizational Equation
+Civilization = Ontology + Knowledge + Ethics + Structure
+
+---
+
+### 🔹 Reading Law
+
+Structure → Meaning → Action
+
+Never reverse order.
+
+---
+
+### 🔹 Final Principle
+Truth > Power
+
+---
