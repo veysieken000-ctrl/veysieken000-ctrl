@@ -19,6 +19,75 @@ The framework is organized as interacting layers:
 Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast
 
 This repository represents an open, research-oriented civilization model aimed at exploring how structural coherence influences civilizational stability.
+
+## FINAL RESEARCH MODE
+
+This repository is no longer structured as a personal project.
+
+It is maintained as:
+
+- A civilizational research framework
+- A structural ontology–epistemology system
+- An integrated human–AI readable model
+
+Core Principle:
+
+> Structure before interpretation.
+
+---
+
+### Research Status
+
+The following layers are considered structurally stable:
+
+- Hebûn — Ontological foundation
+- Zanabûn — Epistemological method
+- Mabûn — Economic structure
+- Rasterast — Reading methodology
+- Zanistarast — Scientific synthesis
+- Newroza Kawa Civilization — Civilizational architecture
+
+---
+
+### Evaluation Method
+
+The system must be evaluated through:
+
+1. Structural coherence
+2. Layer compatibility
+3. Logical consistency
+4. Ethical stability
+5. Civilizational scalability
+
+---
+
+### Interpretation Rule
+
+This framework is not presented as ideology.
+
+It is presented as:
+
+- A testable structural model
+- A layered knowledge architecture
+- A civilization-scale synthesis proposal
+
+---
+
+### Framework Status
+
+LOCKED FOR STRUCTURAL RESEARCH
+
+- open to analysis
+- open to falsification
+- closed to structural fragmentation
+
+---
+
+Truth > Power  
+Structure > Noise  
+Coherence > Ideology
+
+
 ## Civilizational Architecture — Veysi yê MALA SAF (Müdebbir)
 
 Newroza Kawa Civilization is a layered civilizational framework grounded in ontology, epistemology, ethical order, and structural system design.
