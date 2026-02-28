@@ -1,3 +1,53 @@
+# 🧠 ZANISTARAST SCIENTIFIC FRAMEWORK
+
+Dimensional evolution, mind transition and civilization stabilization research system.
+
+> ACTIVE RESEARCH LAB • SYSTEM STATE: STABLE
+
+## 🌐 SYSTEM ARCHITECTURE
+DIMENSION
+   ↓
+GEOLOGY
+   ↓
+BIOLOGY
+   ↓
+MIND
+   ↓
+ETHICS
+   ↓
+CIVILIZATION
+   ↓
+TIME
+   ↓
+UNIFIED FIELD
+
+## 🔬 RESEARCH DOMAINS
+
+- Dimensional Physics & Emergence
+- Geological Evolution Models
+- Biological Phase Theory
+- Mind Dimension Theory
+- Moral-Structural Systems
+- Civilization Stabilization Engine
+- Time & Entropy Theory
+- Unified Field Synthesis
+
+## 🚀 MAIN PROJECT
+
+🔗 [ZANISTARAST-TEORILER](https://github.com/veysieken000-ctrl/ZANISTARAST-TEORILER)
+
+Unified scientific architecture integrating ontology, cognition, ethics and civilization models.
+
+## 🧭 SCIENTIFIC POSITION
+
+This framework is developed as:
+
+- Open scientific architecture
+- AI-readable structured theory system
+- Long-term civilization research model
+
+⚡ Building unified knowledge systems for post-fragmented science.
+
 # ZANISTARAST SCIENTIFIC FRAMEWORK
 
 Unified Scientific Model for:
