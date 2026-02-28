@@ -1,3 +1,37 @@
+# ZANISTARAST SCIENTIFIC FRAMEWORK
+
+Unified Scientific Model for:
+
+- Dimensional Evolution
+- Mind Transition
+- Ethical Civilization Systems
+- Time Theory
+- Unified Field Integration
+
+---
+
+## 🔬 ACTIVE RESEARCH AREAS
+
+DIMENSION • GEOLOGY • BIOLOGY • MIND • ETHICS • CIVILIZATION • TIME • UNIFIED FIELD
+## 🧭 SYSTEM MAP
+Kodu kopyala
+
+DIMENSION
+   ↓
+GEOLOGY
+   ↓
+BIOLOGY
+   ↓
+MIND
+   ↓
+ETHICS
+   ↓
+CIVILIZATION
+   ↓
+TIME
+   ↓
+UNIFIED FIELD
+
 # NEWROZA KAWA CIVILIZATION
 
 ## Executive Abstract
@@ -405,6 +439,19 @@ Navigation Map:
 
 6. Economic Layer  
    - Mabûn
+
+## 📚 Main Repository
+
+➡️ ZANISTARAST-TEORILER  
+Unified multidimensional research framework.
+
+---
+
+## ⚡ Status
+
+ACTIVE RESEARCH FRAMEWORK  
+Version: 1.0
+
 🧱 19️⃣ FINAL STATUS SIGNAL
 
 ## Status Signal
