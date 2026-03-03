@@ -303,7 +303,7 @@ Properties:
 - Layer-consistent
 - AI-readable
 - Institution-compatible
-🧱 🔥 MASTER STRUCTURE (BURAYA KADAR)
+🧱 🔥 MASTER STRUCTURE (BURAYA KADAR
 
 ## Master Structure
 
