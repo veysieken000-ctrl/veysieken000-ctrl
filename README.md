@@ -513,6 +513,16 @@ Version: 1.0
 
 ## Signature
 
+## Terminology
+
+This repository uses core Zanistarast terminology:
+
+- **Hebun** — Being / Ontology
+- **Zanabun** — Knowledge / Epistemology
+- **Mabun** — Economics / Flow
+- **Rasterast** — Governance / Control
+
+For the extended glossary, see `SOZLUK.md`.
 Veysi yê MALA SAF  
 Müdebbir — Newroza Kawa Civilization
 
